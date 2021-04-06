@@ -1,0 +1,13 @@
+Açıklama
+●Script Denzo tarafından yapılmıştır.
+●İnsanlar istediği her an gidip paralarını bozdurabilir.
+●Resmon değerleri kullanmaz iken 0.02 kullanırken ortalama 0.05'dir.
+●Düşük ms değerleri.
+
+---------------------------------------------------
+
+Kurulum:
+● Github üzerinden dosyayı indirin.
+● Dosyanın ismini değiştirmeyin
+● Dosyayı ve gereksinimi "Resources" klasörünün içine atın.
+● Server.cfg dosyasında uygun bir yere önce gereksinime daha sonra scripte ensure vererek kurulumu bitirin.
